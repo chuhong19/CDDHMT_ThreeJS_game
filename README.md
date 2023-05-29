@@ -1,5 +1,7 @@
 # CDDHMT_ThreeJS_game
 
+Codepen: https://codepen.io/Tsom19/pen/poarZGq
+
 Các bước thực hiện trong quy trình tạo ra trò chơi
 - Tạo scene
 - Tạo ánh sáng
